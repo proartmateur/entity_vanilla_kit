@@ -1,0 +1,8 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "entity-definition-syntax-1": "^0.1.3"
+  }
+}
