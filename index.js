@@ -10,7 +10,7 @@ import {
   GenericEntityTemplater,
 } from 'entity-definition-syntax-1';
 
-import { Api } from './api';
+import { Api } from './api/fake';
 
 console.log(Api.ProgrammingLanguages.list());
 console.log(Api.ProgrammingLanguages.findById(11));
